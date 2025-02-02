@@ -1,0 +1,53 @@
+.login-button {
+  width: 85px;
+  height: 40px;
+  margin-left: 15px;
+  background-color: #EEBC1D;
+}
+
+.modal-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  background-color: #424242;
+  color: white;
+  border-radius: 10px;
+}
+
+.modal-tabs {
+  background-color: transparent;
+  color: white;
+}
+
+.tabs-container {
+  border-radius: 10px;
+}
+
+.form-container {
+  padding: 3rem;
+}
+
+.input-field {
+  margin-bottom: 1.5rem;
+}
+
+.input-field input {
+  color: white;
+}
+
+.input-field label {
+  color: white;
+}
+
+.submit-button {
+  background-color: #EEBC1D;
+  width: 100%;
+}
+
+.error-message {
+  margin-top: 10px;
+  color: red;
+  text-align: center;
+}
